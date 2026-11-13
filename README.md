@@ -1,4 +1,4 @@
-# Krankenhausatlas Sachsen-Anhalt 0.04
+# Krankenhausatlas Sachsen-Anhalt 0.05
 
 Durchsuchbares Krankenhausverzeichnis Sachsen-Anhalt, veröffentlicht über GitHub Pages.
 
@@ -12,4 +12,4 @@ Hinweis: Die Betriebsstättennummer `999999999` wird als Platzhalter („nicht a
 
 Spaltenreihenfolge: Im Menü „Spalten anpassen“ am Griff ≡ ziehen und ablegen (Touch und Maus).
 
-Die Spaltenreihenfolge lässt sich unter „Spalten anpassen“ durch Ziehen des Griffs ≡ ändern (Touch und Maus).
+Spaltenköpfe lassen sich direkt in der Tabelle mit Finger oder Maus nach links und rechts verschieben. „Spalten anpassen“ dient nur zum Ein- und Ausblenden.
