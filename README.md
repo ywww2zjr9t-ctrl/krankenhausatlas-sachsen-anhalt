@@ -11,3 +11,5 @@ GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root).
 Hinweis: Die Betriebsstättennummer `999999999` wird als Platzhalter („nicht angegeben“) angezeigt.
 
 Spaltenreihenfolge: Im Menü „Spalten anpassen“ am Griff ≡ ziehen und ablegen (Touch und Maus).
+
+Die Spaltenreihenfolge lässt sich unter „Spalten anpassen“ durch Ziehen des Griffs ≡ ändern (Touch und Maus).
